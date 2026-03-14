@@ -1,3 +1,3 @@
 Initializing git repo from Linux Ubuntu WSL
-Second line changed in main branch
+Second line changed in main and feature branch
 Login feature line
